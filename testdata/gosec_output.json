@@ -1,0 +1,15 @@
+{
+	"Golang errors": {},
+	"Issues": [
+		{
+			"rule_id": "G204",
+			"file": "/path/to/source.go",
+			"line": "35"
+		},
+		{
+			"rule_id": "G304",
+			"file": "/path/to/source.go",
+			"line": "246"
+		}
+	]
+}
