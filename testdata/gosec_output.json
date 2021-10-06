@@ -9,7 +9,7 @@
 		{
 			"rule_id": "G304",
 			"file": "/path/to/source.go",
-			"line": "246"
+			"line": "246-250"
 		}
 	]
 }
