@@ -4,7 +4,7 @@ add `// #nosec Gxxx` directives according to `gosec` output json.
 
 ## Install
 
-`go install github.com/mkql/putnosec:latest`
+`go install github.com/mkql/putnosec/cmd/putnosec@latest`
 
 ## Usage
 
